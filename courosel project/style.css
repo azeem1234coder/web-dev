@@ -1,0 +1,12 @@
+body {
+    padding-top: 56px;
+    /* Adjust based on the height of the navbar */
+}
+
+section {
+    padding: 60px 0;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
